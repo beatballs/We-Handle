@@ -88,7 +88,7 @@ body a:hover
 
 .main-menu.sm-clean a
 {    
-    font-size: 13px;
+    font-size: 18px;
     line-height: 40px;
     color: #fff;
     font-weight: 400;
@@ -276,10 +276,10 @@ body a:hover
 h1.big-title
 {
     font-family: 'Barlow Condensed', sans-serif;
-    font-size: 56px;
-    font-weight: 400;
+    font-size: 70px;
+    font-weight: 700;
     line-height: 100%;
-    padding-top: 100px;
+    padding-top: 90px;
     color: #fff;
     letter-spacing: -1px;    
     width: 95%;
