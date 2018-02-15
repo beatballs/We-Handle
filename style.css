@@ -269,8 +269,8 @@ body a:hover
 
 .top-logo
 {
-     width: 265px !important;    
-    padding-top: 125px;
+     width: 360px !important;    
+    padding-top: 90px;
 }
 
 h1.big-title
@@ -279,10 +279,10 @@ h1.big-title
     font-size: 70px;
     font-weight: 700;
     line-height: 100%;
-    padding-top: 90px;
+    padding-top: 20px;
     color: #fff;
     letter-spacing: -1px;    
-    width: 95%;
+    width: 90%;
     margin-left: auto;
     margin-right: auto;
 }
