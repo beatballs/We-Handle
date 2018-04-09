@@ -318,7 +318,7 @@ h1.big-title
 #services
 {
      background-color: #fafafa; 
-    background-image: url("demo-images/pattern_site1-01.png"); 
+    background-image: url("demo-images/background-what-we-do.svg"); 
     background-repeat: no-repeat; 
     background-position: center top; 
     background-size: cover;
@@ -372,7 +372,7 @@ h1.big-title
 #portfolio
 {
     background-color: #fafafa; 
-    background-image: url("demo-images/pattern_site1-02.png"); 
+    background-image: url("demo-images/background-what-we-do.svg"); 
     background-repeat: no-repeat; 
     background-position: center top; 
     background-size: cover;
@@ -570,7 +570,7 @@ div.pp_default .pp_loaderIcon
 {
     background-color: rgb(34, 28, 90);
     background-color: #fafafa;
-    background-image: url("demo-images/pattern_site1-03.png"); 
+    background-image: url("demo-images/background-what-we-do.svg"); 
      background-repeat: no-repeat; 
     background-position: center top; 
     background-size: cover; 
@@ -646,7 +646,7 @@ div.pp_default .pp_loaderIcon
 {
     background-color: rgb(34, 28, 90); 
     background-color: #fafafa;
-    background-image: url("demo-images/pattern_site1-04.png"); 
+    background-image: url("demo-images/background-what-we-do.svg"); 
     background-repeat: no-repeat; 
     background-position: center top; 
     background-size: cover; 
@@ -758,7 +758,7 @@ div.pp_default .pp_loaderIcon
 {
     background-color: rgb(34, 28, 90); 
      background-color: #fafafa; 
-    background-image: url("demo-images/pattern_site1-05.png"); 
+    background-image: url("demo-images/background-what-we-do.svg"); 
     background-repeat: no-repeat; 
     background-position: center top; 
     background-size: cover; 
@@ -819,7 +819,7 @@ a.video-popup-holder:hover img.popup-play
 {
     background-color: rgb(34, 28, 90); 
      background-color: #fafafa; 
-    background-image: url("demo-images/pattern_site1-06.png"); 
+    background-image: url("demo-images/background-what-we-do.svg"); 
      background-repeat: no-repeat; 
     background-position: center top; 
     background-size: cover; 
@@ -898,7 +898,7 @@ a.video-popup-holder:hover img.popup-play
 {
     background-color: rgb(34, 28, 90); 
     background-color: #fafafa; 
-    background-image: url("demo-images/pattern_site1-01.png"); 
+    background-image: url("demo-images/background-what-we-do.svg"); 
     background-repeat: no-repeat; 
     background-position: center top; 
     background-size: cover; 
