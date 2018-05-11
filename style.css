@@ -733,19 +733,22 @@ div.pp_default .pp_loaderIcon
 {
     max-width: 500px;
     padding-left: 50px;
+     color: aquamarine;
 }
 
 .testimonial-text
 {
     font-size: 22px;
-    line-height: 40px;    
+    line-height: 40px;   
+    color: aquamarine;
 }
 
 .testimonial-author
 {
     padding-top: 90px;
     font-size: 16px;
-    letter-spacing: 3px;    
+    letter-spacing: 3px;   
+     color: aquamarine;
 }
 
 /* END NEWS SECTION */
