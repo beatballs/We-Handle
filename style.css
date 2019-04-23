@@ -1,6 +1,6 @@
 body
 {
-    font-family: 'Barlow Condensed', sans-serif;
+   font-family: 'Asap Condensed', sans-serif;
     font-size: 16px;
     line-height: 26px;
     font-weight: 400;
@@ -68,7 +68,7 @@ body a:hover
 {    
     transition: background-color .2s linear;
     z-index: 99 !important;
-    background-color: #221C5A;
+    background-color: #FFEA2A;
     width: 100% !important;
     top: 0;
     position: fixed;
@@ -159,7 +159,7 @@ body a:hover
 {    
     margin-left: -64px;
     color: #55B286;
-    font-family: 'Montserrat', sans-serif;
+ font-family: 'Asap Condensed', sans-serif;
     font-weight: 900;
     font-size: 180px;
     line-height: 100%;
@@ -168,14 +168,14 @@ body a:hover
 
 .section-title-holder h2
 {
-    font-family: 'Barlow Condensed', sans-serif;
-    font-weight: 900;
-    font-size: 109px;
+  font-family: 'Asap Condensed', sans-serif;
+  font-weight: 500;
+    font-size: 90px;
     width: 245px;
     word-break: break-all;
     line-height: 83px;
     margin-top: 10px;
-    color: white;
+ color: #FFEA2A;
     margin-left: 115px;
     text-transform: uppercase;
     letter-spacing: -3px;
@@ -214,7 +214,7 @@ body a:hover
 
 .section-content-holder .content-title
 {
-    font-family: 'Barlow Condensed';
+ font-family: 'Asap Condensed', sans-serif;
     font-weight: 900;
     text-align: center;
     font-size: 180px;
@@ -259,8 +259,8 @@ body a:hover
 {
     padding-bottom: 170px;
     min-height: calc(100vh - 170px);
-    background-color: #221c5a; 
-    background-image:url(demo-images/nastuh-abootalebi-284883%20copy.jpg); 
+    background-color: #FFEA2A; 
+    background-image:url(demo-images/INTRO_2.png); 
     background-repeat: repeat; 
     background-position: center top; 
     background-size: cover;
@@ -270,12 +270,12 @@ body a:hover
 .top-logo
 {
      width: 360px !important;    
-    padding-top: 90px;
+    padding-top: 60px;
 }
 
 h1.big-title
 {
-    font-family: 'Barlow Condensed', sans-serif;
+    font-family: 'Asap Condensed', sans-serif;
     font-size: 70px;
     font-weight: 700;
     line-height: 100%;
@@ -294,7 +294,7 @@ h1.big-title
 
 .title-desc
 {
-    font-family: 'Barlow Condensed', serif;
+    font-family: 'Asap Condensed', sans-serif;
     font-size: 22px;
     line-height: 26px;
     max-width: 333px; 
@@ -317,8 +317,8 @@ h1.big-title
 
 #services
 {
-     background-color: #fafafa; 
-    background-image: url("demo-images/ilya-pavlov-87472-unsplash.jpg"); 
+     background-color: white; 
+    background-image: url("demo-images/"); 
     background-repeat: no-repeat; 
     background-position: center top; 
     background-size: cover;
@@ -327,12 +327,12 @@ h1.big-title
 
 #services .section-title-holder
 {
-    background-color: #32DB8A
+    background-color: #000000
 }
 
 #services .section-title-holder span
 {
-    color: #55B286;
+    color: #fff;
 }
 
 .service-holder 
@@ -358,7 +358,7 @@ h1.big-title
 
 .service-title 
 {
-    font-family: 'Barlow Condensed', sans-serif; 
+    font-family: 'Asap Condensed', sans-serif; 
     font-size: 24px;
     padding-bottom: 10px;
 }
@@ -372,7 +372,7 @@ h1.big-title
 #portfolio
 {
     background-color: #fafafa; 
-    background-image: url("demo-images/nikita-kachanovsky-494828-unsplash.jpg"); 
+    background-image: url("demo-images/"); 
     background-repeat: no-repeat; 
     background-position: center top; 
     background-size: cover;
@@ -403,7 +403,7 @@ h1.big-title
 
 .portfolio-holder .portfolio-load-more-holder
 {
-    font-family: 'Barlow Condensed', sans-serif;    
+   font-family: 'Asap Condensed', sans-serif;    
     font-weight: 700;
     font-size: 20px;
     width: 430px;
@@ -520,7 +520,7 @@ h1.big-title
 
 .portfolio-text
 {
-    font-family: 'Barlow Condensed', sans-serif;    
+    font-family: 'Asap Condensed', sans-serif;    
     font-weight: 700;
     font-size: 20px;
     line-height: 18px;
@@ -530,7 +530,7 @@ h1.big-title
 
 .portfolio-sec-text
 {
-    font-family: 'Barlow Condensed', sans-serif;    
+    font-family: 'Asap Condensed', sans-serif;    
     font-weight: 700;
     font-size: 16px;
     line-height: 100%;
@@ -570,7 +570,7 @@ div.pp_default .pp_loaderIcon
 {
     background-color: rgb(34, 28, 90);
     background-color: #fafafa;
-    background-image: url("demo-images/andrew-neel-308138-unsplash.jpg"); 
+    background-image: url("demo-images/"); 
      background-repeat: no-repeat; 
     background-position: center top; 
     background-size: cover; 
@@ -646,7 +646,7 @@ div.pp_default .pp_loaderIcon
 {
     background-color: rgb(34, 28, 90); 
     background-color: #fafafa;
-    background-image: url("demo-images/chris-yang-558522-unsplash.jpg"); 
+    background-image: url("demo-images/"); 
     background-repeat: no-repeat; 
     background-position: center top; 
     background-size: cover; 
@@ -718,7 +718,7 @@ div.pp_default .pp_loaderIcon
 
 .latest-post-bottom-text a 
 {
-    font-family: 'Barlow Condensed', sans-serif;
+    font-family: 'Asap Condensed', sans-serif;
     font-weight: 700;    
     font-size: 16px;
     line-height: 100%;    
@@ -761,7 +761,7 @@ div.pp_default .pp_loaderIcon
 {
     background-color: rgb(34, 28, 90); 
      background-color: #fafafa; 
-    background-image: url("demo-images/markus-spiske-507983-unsplash.jpg"); 
+    background-image: url("demo-images/"); 
     background-repeat: no-repeat; 
     background-position: center top; 
     background-size: cover; 
@@ -822,7 +822,7 @@ a.video-popup-holder:hover img.popup-play
 {
     background-color: rgb(34, 28, 90); 
      background-color: #fafafa; 
-    background-image: url("demo-images/georgie-cobbs-467923-unsplash.jpg"); 
+    background-image: url("demo-images/"); 
      background-repeat: no-repeat; 
     background-position: center top; 
     background-size: cover; 
@@ -901,7 +901,7 @@ a.video-popup-holder:hover img.popup-play
 {
     background-color: rgb(34, 28, 90); 
     background-color: #fafafa; 
-    background-image: url("demo-images/nordwood-themes-180852-unsplash.jpg"); 
+    background-image: url("demo-images/"); 
     background-repeat: no-repeat; 
     background-position: center top; 
     background-size: cover; 
@@ -964,7 +964,7 @@ p.custom-field-class
     height: 28px;    
     font-size: 16px;
     font-weight: 400;
-    font-family: 'Barlow Condensed', sans-serif;
+    font-family: 'Asap Condensed', sans-serif;
     width: 100%;
     line-height: 25px;
     padding: 0;
@@ -972,7 +972,7 @@ p.custom-field-class
 
 .contact-form input[type=text]::-webkit-input-placeholder, .contact-form input[type=email]::-webkit-input-placeholder, .contact-form textarea::-webkit-input-placeholder
 {
-    font-family: 'Barlow Condensed', sans-serif;
+    font-family: 'Asap Condensed', sans-serif;
     color: #23214c;
     font-weight: 400;
     font-size: 16px;
@@ -980,7 +980,7 @@ p.custom-field-class
 }
 .contact-form input[type=text]::-moz-placeholder, .contact-form input[type=email]::-moz-placeholder, .contact-form textarea::-moz-placeholder
 {
-    font-family: 'Barlow Condensed', sans-serif;
+    font-family: 'Asap Condensed', sans-serif;
     color: #23214c;
     font-weight: 400;
     font-size: 16px;
@@ -989,7 +989,7 @@ p.custom-field-class
 }
 .contact-form input[type=text]:-ms-input-placeholder, .contact-form input[type=email]:-ms-input-placeholder, .contact-form textarea:-ms-input-placeholder
 {
-    font-family: 'Barlow Condensed', sans-serif;
+    font-family: 'Asap Condensed', sans-serif;
     color: #23214c;
     font-weight: 400;
     font-size: 16px;
@@ -997,7 +997,7 @@ p.custom-field-class
 }
 .contact-form input[type=text]:-moz-placeholder, .contact-form input[type=email]:-moz-placeholder, .contact-form textarea:-moz-placeholder
 {
-    font-family: 'Barlow Condensed', sans-serif;
+   font-family: 'Asap Condensed', sans-serif;
     color: #23214c;
     font-weight: 400;
     font-size: 16px;
@@ -1047,7 +1047,7 @@ p.custom-field-class
     vertical-align: middle;
     text-decoration: none;
     background: transparent;
-    font-family: 'Barlow Condensed', sans-serif;
+    font-family: 'Asap Condensed', sans-serif;
     width: 100%;
     text-transform: uppercase;
     font-size: 16px;
@@ -1256,6 +1256,7 @@ footer
         line-height: 66px;
         margin-top: 25px;        
         margin-left: 75px; 
+        
     }
 
     .section-content-holder.right 
